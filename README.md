@@ -9,9 +9,5 @@ A machine learning-based project to detect and classify news articles as real or
 - Easy-to-use interface (CLI or web-based)
 - Trained on a reliable dataset
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Anamika-ai/News_detection.git
+here is the link: https://anamika-ai.github.io/News_detection/
 
