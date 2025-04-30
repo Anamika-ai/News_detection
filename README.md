@@ -11,3 +11,5 @@ A machine learning-based project to detect and classify news articles as real or
 
 here is the link: https://anamika-ai.github.io/News_detection/
 
+![image alt](https://github.com/Anamika-ai/News_detection/blob/24ffb2a64ed0f944091ac454e62ef0e58500b2d5/Screenshot%202025-04-30%20150102.png)
+
